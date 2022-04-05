@@ -1,6 +1,6 @@
 FROM alpine:latest
-LABEL maintainer "Steven Iveson <steve@iveson.eu>"
-LABEL source "https://github.com/sjiveson/nfs-server-alpine"
+LABEL maintainer "Anacraft Technology Solution <anacraft.ts@gmail.com>"
+LABEL source "https://github.com/anacraft-ts/nfs-server-alpine"
 LABEL branch "master"
 COPY Dockerfile README.md /
 
